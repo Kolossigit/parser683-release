@@ -1,12 +1,7 @@
-# Release 2.0.3
+# Release 2.1.1
 
 ## What's new
-
-- First public release.
-- Full English and Russian language support.
-- All setup instructions available inside the app.
-- Telegram message filtering and forwarding by template and time range.
-- Local processing, no data collection or login required.
+- The user interface has been completely changed
 
 ---
 

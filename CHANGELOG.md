@@ -8,3 +8,8 @@
 - Full in-app setup instructions.
 - Local message processing (no data collection).
 - Filtering and forwarding Telegram messages by template and time range.
+
+## [2.1.1] - 2025-07-25
+
+###
+- The user interface has been completely changed
