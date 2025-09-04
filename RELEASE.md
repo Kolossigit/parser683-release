@@ -1,7 +1,8 @@
-# Release 2.1.1
+# Release 2.1.3
 
 ## What's new
-- The user interface has been completely changed
+ - In the "Result" menu, for better readability of the text,
+  each element from the search bar is highlighted in a separate color.
 
 ---
 

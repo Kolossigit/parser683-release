@@ -13,3 +13,9 @@
 
 ###
 - The user interface has been completely changed
+
+## [2.1.3] - 2025-09-04
+
+### 
+- In the "Result" menu, for better readability of the text,
+  each element from the search bar is highlighted in a separate color.
