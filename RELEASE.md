@@ -1,8 +1,9 @@
-# Release 2.1.3
+# Release 2.1.4
 
 ## What's new
  - In the "Result" menu, for better readability of the text,
   each element from the search bar is highlighted in a separate color.
+  Fixed minor bug.
 
 ---
 

@@ -19,3 +19,8 @@
 ### 
 - In the "Result" menu, for better readability of the text,
   each element from the search bar is highlighted in a separate color.
+  
+## [2.1.4] - 2025-09-05
+
+###
+- Fixed minor bag
